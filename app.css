@@ -1,0 +1,43 @@
+.mainheader {padding:50px 0 50px 0; background-color: black; color:#f4f4f4; text-align:center; font-family: 'Noto Sans Display', sans-serif;}
+
+h1 {font-family: 'Noto Sans Display', sans-serif; font-size: 100px;}
+
+.box1 {background-color: lightblue;}
+
+.box2 {background-color: lightblue;}
+
+.box3 {background-color: lightblue;}
+
+.box4 {background-color: salmon;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .button, .button.disabled, .button[disabled], .button.disabled:hover, .button[disabled]:hover, .button.disabled:focus, .button[disabled]:focus {
+    background-color: #ff0000;
+    color: #fefefe; }
+  .button:hover, .button:focus {
+    background-color: #000000;
+    color: #fefefe; }
+
+
+  .secondaryButton .secondaryButton, .secondaryButton.disabled, .secondaryButton[disabled], .secondaryButton.disabled:hover, .secondaryButton[disabled]:hover, .secondaryButton.disabled:focus, .secondaryButton[disabled]:focus {
+    background-color: yellow;
+    color: #fefefe; }
+  .secondaryButton .secondaryButton:hover, .secondaryButton:focus {
+    background-color: #000000;
+    color: #fefefe; }
